@@ -1,2 +1,2 @@
 FROM debian
-[ENTRYPOINT /bin/bash]
+[ENTRYPOINT bash]
